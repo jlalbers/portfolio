@@ -1,0 +1,11 @@
+# Simplex Algorithm Seminar
+## Overview
+Delivered an instructive seminar on linear programming and the Simplex Algorithm as team leader. Defined project scope, researched algorithm, and led seminar. Learned implementation and applications of linear programming and Simplex Algorithm. Delivered seminar presentation, informative handout, and challenging sample problem.
+## Comments
+I've been intrigued by the Simplex Algorithm since watching a video about it during the complexity analysis portion of my discrete structures course. At first glance, it was seemingly inscrutable; its Wikipedia entry leaves a lot to be desired for someone without existing knowledge of linear programming or optimization theory. However, I couldn't resist the opportunity to satisfy my curiosity for the course seminar and chose this algorithm anyway. Searching for additional resources was a huge help, and it's very cool that this algorithm was originally developed to be executed by hand on written tableaus but is still so effective that many computerized linear program solvers still use some form of it. George Danzig was a smart cookie!
+## File Summary
+- `Group Seminar 4 - Simplex Algorithm (Example Problem).pdf`: this PDF contains the full example problem that was walked through as part of the seminar.
+- `Group Seminar 4 - Simplex Algorithm (Handout).pdf`: this PDF contains the handout explaining the history, application, and demonstration of the Simplex Algorithm on an example problem.
+- `Group Seminar 4 - Simplex Algorithm (Problem Set).pdf`: this PDF contains a problem we developed for one of the problem sets for our Graduate Algorithms course.
+- `Seminar Presentation.pptx`: the slide deck for our seminar. It contains some history and theory of linear programming and the Simplex Algorithm before walking through the steps of executing the Simplex tableau.
+- `example_solution_python.py`: contains a computerized solution to the example problem from the presentation and handout. Requires Google's OR Tools Python package.

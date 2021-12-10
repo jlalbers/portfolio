@@ -1,0 +1,12 @@
+## File Summary
+- `classifier.py`: the code for importing, engineering, and classifying the lyric data.
+- `country_lyric_text.txt`: contains the scraped lyrics for country songs used for testing.
+- `country_lyrics.csv`: contains the raw song and lyric data used for training the model.
+- `country_test_songs_artists.csv`: the country songs/artists used to scrape lyrics.
+- `Final_ROC.ipynb`: Jupyter ntebook containing the code for plotting the receiver operating characteristic curve for the binary classifier model.
+- `hiphop_lyric_text.txt`: contains the scraped lyrics for hip hop songs used for testing.
+- `hiphop_lyrics.csv`: contains the raw song and lyric data used for training the model.
+- `hiphop_test_songs_artists.csv`: the hip hop songs/artists used to scrape lyrics.
+- `lyrics_scraper.py`: the code for scraping lyrics using the test CSV files. Requires Genius API developer key.
+- `model_outputs.txt`: contains a summary of the classifier outputs.
+- `outputs.txt`: more raw version of model outputs used for `Final_ROC.ipynb`.
